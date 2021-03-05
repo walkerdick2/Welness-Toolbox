@@ -12,6 +12,6 @@ li{
 h1{
     color: brown;
 }
-li.hover{
+li:hover{
     font-size: medium;
 }
